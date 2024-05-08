@@ -1,1 +1,94 @@
-{"1d6128e9":{"url":"/assets/images/webflow-background.svg","alt":""},"i630e9f63":{"url":"/assets/images/topography-5.svg","alt":""},"i5e4bdc1c":{"url":"/assets/images/interaction-icon.svg","alt":""},"-2c4b001d":{"url":"/assets/images/jhdk-logo-blk.svg","alt":""},"287e482c":{"url":"/assets/images/hero-alt-yellow.png","alt":"Forme géométrique de couleur dégradé jaune"},"-75acc53f":{"url":"/assets/images/hero-image-1.png","alt":"Main d'une personne tapant sur un clavier d'ordinateur portable"},"-28e60ca3":{"url":"/assets/images/sportlink-mockup-1.png","alt":""},"-579c6f09":{"url":"/assets/images/13.png","alt":"Icône du service de création de sites web"},"-3428d2ea":{"url":"/assets/images/5.png","alt":"Icône du service de branding et web design"},"-340ca3e8":{"url":"/assets/images/7.png","alt":"Icône du service de code personnalisé et intégrations"},"-33f074e6":{"url":"/assets/images/9.png","alt":"Icône du service de référencement naturel"},"-57b89e0b":{"url":"/assets/images/11.png","alt":"Icône du service du support technique"},"-43602622":{"url":"/assets/images/icnes-portfolio.png","alt":"Icône de service de migration de plateforme"},"7de58936":{"url":"/assets/images/sandrinefalconeri-profile.png","alt":"Photo de Marie Durand - cliente satisfaite de mon travail de développeur web"},"-5d06fd0":{"url":"/assets/images/cedricsilvestre-profile-1.png","alt":"Photo de cedric Sylvestre - ancien collègue de travail avec qui j'ai travaillé sur de nombreux projets"},"c5ef9f":{"url":"/assets/images/multiple-face-jh.webp","alt":""},"-45465867":{"url":"/assets/images/bg-gradient.png","alt":"Image gradient servant d'arrière plan"},"-ce089b":{"url":"/assets/images/loader-jhdk-_1_.webp","alt":""},"-7a700be7":{"url":"/assets/external/utility-lock.ae54711958.svg","alt":""},"-2110f13a":{"url":"/assets/images/404-utility-image.png","alt":""},"-2f1f73f4":{"url":"/assets/external/660025713ccf390baa0e21c4_placeholder-image.svg","alt":""},"-3cbca8bd":{"url":"/assets/external/placeholder.60f9b1840c.svg","alt":""},"275406b":{"url":"/assets/external/placeholder-thumb.svg","alt":""}}
+{
+  "1d6128e9": {
+    "url": "/assets/images/webflow-background.svg",
+    "alt": ""
+  },
+  "i630e9f63": {
+    "url": "/assets/images/topography-5.svg",
+    "alt": ""
+  },
+  "i5e4bdc1c": {
+    "url": "/assets/images/interaction-icon.svg",
+    "alt": ""
+  },
+  "-2c4b001d": {
+    "url": "/assets/images/jhdk-logo-blk.svg",
+    "alt": "logo jhdKreativ"
+  },
+  "287e482c": {
+    "url": "/assets/images/hero-alt-yellow.png",
+    "alt": "Forme géométrique de couleur dégradé jaune"
+  },
+  "487ac295": {
+    "url": "/assets/images/portfolio-hero-front.webp",
+    "alt": "Main d'une personne tapant sur un clavier d'ordinateur portable"
+  },
+  "-28e60ca3": {
+    "url": "/assets/images/sportlink-mockup-1.png",
+    "alt": ""
+  },
+  "-579c6f09": {
+    "url": "/assets/images/13.png",
+    "alt": "Icône du service de création de sites web"
+  },
+  "-3428d2ea": {
+    "url": "/assets/images/5.png",
+    "alt": "Icône du service de branding et web design"
+  },
+  "-340ca3e8": {
+    "url": "/assets/images/7.png",
+    "alt": "Icône du service de code personnalisé et intégrations"
+  },
+  "-33f074e6": {
+    "url": "/assets/images/9.png",
+    "alt": "Icône du service de référencement naturel"
+  },
+  "-57b89e0b": {
+    "url": "/assets/images/11.png",
+    "alt": "Icône du service du support technique"
+  },
+  "-43602622": {
+    "url": "/assets/images/icnes-portfolio.png",
+    "alt": "Icône de service de migration de plateforme"
+  },
+  "-53162f07": {
+    "url": "/assets/images/joana-profile.webp",
+    "alt": "Photo de Joana Oliveira - mentor chez Flux Academy "
+  },
+  "1aeab443": {
+    "url": "/assets/images/conor-profile.webp",
+    "alt": "Photo de Conor Hagan - Fondateur de ExpertFlow "
+  },
+  "c5ef9f": {
+    "url": "/assets/images/multiple-face-jh.webp",
+    "alt": "Photo collage de jean-hugues souriant"
+  },
+  "-45465867": {
+    "url": "/assets/images/bg-gradient.png",
+    "alt": "Image gradient servant d'arrière plan"
+  },
+  "-ce089b": {
+    "url": "/assets/images/loader-jhdk-_1_.webp",
+    "alt": "Logo de JHDKreativ"
+  },
+  "4abef31c": {
+    "url": "https://d3e54v103j8qbb.cloudfront.net/static/utility-lock.ae54711958.svg",
+    "alt": ""
+  },
+  "-2110f13a": {
+    "url": "/assets/images/404-utility-image.png",
+    "alt": ""
+  },
+  "6a15e013": {
+    "url": "/assets/images/nexa-mockup.png",
+    "alt": ""
+  },
+  "317f733b": {
+    "url": "https://d3e54v103j8qbb.cloudfront.net/plugins/Basic/assets/placeholder.60f9b1840c.svg",
+    "alt": ""
+  },
+  "-1f8299d7": {
+    "url": "https://d3e54v103j8qbb.cloudfront.net/img/placeholder-thumb.svg",
+    "alt": ""
+  }
+}

@@ -494,20 +494,31 @@ collections:
             name: '-39ea74f3'
             widget: string
           - hint: >-
-              Original text: "Lorem ipsum dolor sit amet, consectetur adipiscing
-              elit. Suspendisse varius enim in eros elementum tristique. Duis
-              cursus, mi quis viverra ornare, eros dolor interdum nulla, ut
-              commodo diam libero vitae erat.", key: -1e9945fa
+              Original text: "J'ai été fascinée par l'engagement de Jean-Hugues
+              et sa rapide maîtrise de Webflow. Sa capacité proactive à résoudre
+              les problèmes s'est révélée être une qualité remarquable durant
+              notre mentorat. Je suis persuadée que Jean-Hugues accomplira de
+              grandes choses grâce à ses compétences et sa passion.", key:
+              693ee62f
             label: Text
-            name: '-1e9945fa'
+            name: 693ee62f
             widget: text
-          - hint: 'Original text: Name Surname, key: 35f8d846'
+          - hint: 'Original text: Joana Oliveira, Flux Academy, key: 49c1e617'
             label: Text
-            name: 35f8d846
+            name: 49c1e617
             widget: string
-          - hint: 'Original text: Cédric Sylvestre, key: -2bc71fc9'
+          - hint: >-
+              Original text: "Je suis impressionné par le savoir-faire en
+              Webflow et les compétences en communication de Jean-Hugues ! Il a
+              su comprendre mes besoins, communiquer de manière efficace et
+              obtenir des résultats exceptionnels. Une personne très fiable.",
+              key: 76fae43b
             label: Text
-            name: '-2bc71fc9'
+            name: 76fae43b
+            widget: text
+          - hint: 'Original text: Conor Hagan, ExpertFlow, key: -7dfa6af4'
+            label: Text
+            name: '-7dfa6af4'
             widget: string
           - hint: 'Original text: Hey, je suis jean-hugues, key: -592a76d1'
             label: Text
@@ -731,10 +742,6 @@ collections:
             label: Text
             name: 4f6f9cd
             widget: string
-          - hint: 'Original text: jean-hugues@jhdkreativ.com, key: 1c54597d'
-            label: Text
-            name: 1c54597d
-            widget: string
           - hint: >-
               Original text: © 2024 jean-hugues DOUMBE KINGUE. Tout droits
               réservés., key: 72b208ac
@@ -768,6 +775,30 @@ collections:
           - hint: 'Original link: #Contact, key: -30472183'
             label: Link
             name: '-30472183'
+            widget: string
+          - hint: >-
+              Original link:
+              mailto:hello@jhdkreativ.com?subject=Contact%20suite%20%C3%A0%20la%20visite%20de%20votre%20portfolio,
+              key: -44c8fa2d
+            label: Link
+            name: '-44c8fa2d'
+            widget: string
+          - hint: >-
+              Original link:
+              https://www.facebook.com/profile.php?id=61559019434090, key:
+              -cf4a7ae
+            label: Link
+            name: '-cf4a7ae'
+            widget: string
+          - hint: 'Original link: https://twitter.com/JhDoumbe, key: 19d11c9c'
+            label: Link
+            name: 19d11c9c
+            widget: string
+          - hint: >-
+              Original link: https://www.linkedin.com/in/jhdoumbekingue/, key:
+              269ec952
+            label: Link
+            name: 269ec952
             widget: string
           - hint: 'Original link: /, key: 2f'
             label: Link
@@ -859,7 +890,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-75acc53f'
+            name: 487ac295
             widget: object
             fields:
               - name: url
@@ -963,7 +994,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 7de58936
+            name: '-53162f07'
             widget: object
             fields:
               - name: url
@@ -976,7 +1007,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-5d06fd0'
+            name: 1aeab443
             widget: object
             fields:
               - name: url
@@ -1028,7 +1059,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-7a700be7'
+            name: 4abef31c
             widget: object
             fields:
               - name: url
@@ -1054,7 +1085,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-2f1f73f4'
+            name: 6a15e013
             widget: object
             fields:
               - name: url
@@ -1067,7 +1098,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-3cbca8bd'
+            name: 317f733b
             widget: object
             fields:
               - name: url
@@ -1080,7 +1111,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 275406b
+            name: '-1f8299d7'
             widget: object
             fields:
               - name: url
@@ -1092,5 +1123,4 @@ collections:
                 label: Image Alt
                 widget: string
                 required: false
-local_backend: true
 publish_mode: editorial_workflow

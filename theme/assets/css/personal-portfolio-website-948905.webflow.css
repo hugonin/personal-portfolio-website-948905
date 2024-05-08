@@ -1980,8 +1980,9 @@ figcaption {
 
 .testimonial1_client-image-wrapper {
   margin-bottom: 1rem;
+  display: block;
   position: absolute;
-  top: -16%;
+  top: -10%;
   bottom: auto;
   left: 0%;
   right: 0%;
@@ -2446,6 +2447,7 @@ figcaption {
 }
 
 .portfolio-header6_image {
+  aspect-ratio: auto;
   object-fit: cover;
   width: 100%;
   height: 100%;
@@ -3776,6 +3778,11 @@ figcaption {
   color: var(--base-color-brand--accent);
 }
 
+.contact_email-wrapper {
+  color: var(--base-color-brand--light);
+  text-decoration: none;
+}
+
 @media screen and (max-width: 991px) {
   h1 {
     font-size: 3.25rem;
@@ -4431,7 +4438,7 @@ figcaption {
   }
 
   .button-text-1, .button-text-2 {
-    color: var(--base-color-brand--dark);
+    color: var(--base-color-brand--light);
   }
 }
 
@@ -5346,10 +5353,6 @@ figcaption {
   align-self: stretch;
 }
 
-#w-node-a0a773e5-3f6c-526b-7126-05fb5e816eed-aa0e2193 {
-  align-self: auto;
-}
-
 #w-node-_917c1651-b0fc-4f18-3184-aa732e787bd1-2e787bca {
   justify-self: start;
 }
@@ -5361,6 +5364,10 @@ figcaption {
 
 #w-node-_917c1651-b0fc-4f18-3184-aa732e787bd4-2e787bca, #w-node-_917c1651-b0fc-4f18-3184-aa732e787bd6-2e787bca, #w-node-_917c1651-b0fc-4f18-3184-aa732e787bd8-2e787bca {
   align-self: center;
+}
+
+#Facebook-page.w-node-_96ec0376-de71-4d2d-b34a-5803c943a196-c943a186 {
+  align-self: auto;
 }
 
 #w-node-_336be75c-ab2b-838b-5642-972b6cc86205-aa0e21ab {
@@ -6764,10 +6771,6 @@ figcaption {
 
 #w-node-d9280a4c-edf4-6926-6f8b-5951aad2204b-42738fa6 {
   grid-area: span 1 / span 3 / span 1 / span 3;
-}
-
-#w-node-_95ccc4c2-b14a-0260-bf00-113e8dc73e8e-42738fa6 {
-  align-self: auto;
 }
 
 #w-node-_7adfba7e-570c-4eb5-5e24-fe9efe797a84-42738fa6 {
