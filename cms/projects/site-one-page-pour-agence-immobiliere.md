@@ -14,7 +14,7 @@ f_brief-project-details: Dreamsale propose à ses adhérents de consulter des
   Charte graphique cohérente avec image de marqueDéveloppement et
   intégration:WebflowRelumeJavascript
 f_main-image:
-  url: /assets/images/dreamsale-mockup_1.webp
+  url: /assets/images/dreamsale-mockup-1.png
   alt: null
 f_client-name: JHDKreativ
 f_objective: Démontrer mon expertise et expérience
@@ -22,11 +22,11 @@ f_date: 2024-03-04T00:00:00.000Z
 f_website-link: http://real-estate-website-064d6c.webflow.io/
 f_project-types: One-page website
 f_image-gallery:
-  - url: /assets/images/dreamsale-portfolio-3.webp
+  - url: /assets/images/dreamsale-portfolio-3.png
     alt: null
-  - url: /assets/images/dreamsale-portfolio-2.webp
+  - url: /assets/images/dreamsale-portfolio-2.png
     alt: null
-  - url: /assets/images/dreamsale-portfolio-1.webp
+  - url: /assets/images/dreamsale-portfolio-1.png
     alt: null
 f_tags-3:
   - cms/tags/one--page-website.md
