@@ -35,7 +35,7 @@ f_brief-project-details: >-
 
   Javascript‍
 f_main-image:
-  url: /assets/images/1extream-mockup.webp
+  url: /assets/images/extream-mockup-1.png
   alt: null
 f_client-name: JHDKreativ
 f_objective: Démontrer mon expertise et expérience
@@ -43,11 +43,11 @@ f_date: 2024-01-08T00:00:00.000Z
 f_website-link: http://fitness-coach-website-cd5ab1.webflow.io/
 f_project-types: Site vitrine
 f_image-gallery:
-  - url: /assets/images/extream-portfolio-4.webp
+  - url: /assets/images/extream-portfolio-4.png
     alt: null
-  - url: /assets/images/extream-portfolio-2.webp
+  - url: /assets/images/extream-portfolio-2.png
     alt: null
-  - url: /assets/images/extream-portfolio-1.webp
+  - url: /assets/images/extream-portfolio-1.png
     alt: null
 f_tags-3:
   - cms/tags/site-vitrine.md
